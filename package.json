@@ -1,0 +1,16 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "This is a photo gallery integrated with pexels",
+  "main": "keys.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "build"
+  },
+  "author": "Nadeem Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "pexels": "^1.4.0"
+  }
+}
